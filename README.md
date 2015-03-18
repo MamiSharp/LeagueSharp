@@ -12,4 +12,4 @@ Jogo League of Legends a mais de quatro anos com e sem ferramentas. O meu foco a
  
 ###### ♥ Doações ♥
 
-♥ [Paypal](https://www.joduska.me/forum/user/1631-mamisharp/) - ( Não está funcionando ainda, prioridade trabalhar primeiro né? ^^' )
+♥ [Paypal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z6GHBQLL5F6VU) - ( Não está funcionando ainda, prioridade trabalhar primeiro né? ^^' )
