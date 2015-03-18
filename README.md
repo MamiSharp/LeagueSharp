@@ -4,7 +4,7 @@
 
 ###### ♥ Assemblies ♥
 
- ♥ [MamiAkali](https://github.com/MamiSharp/LeagueSharp/tree/master/MamiAkali) - ( Quase pronto! )
+ ♥ [MamiAkali](https://github.com/MamiSharp/LeagueSharp/tree/master/MamiAkali) - ( NÃO FOI TESTADO! )
  
  
 ###### ♥ Sobre ♥
