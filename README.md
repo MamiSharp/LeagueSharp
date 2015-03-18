@@ -1,6 +1,6 @@
 ## ♥ MamiSharp ♥
 
-![alt tag](http://i.imgur.com/YwIKPWu.jpg)
+![alt tag](http://i.imgur.com/suoHjZI.jpg)
 
  ♥ [MamiAkali](https://github.com/MamiSharp/LeagueSharp/tree/master/MamiAkali) - ( Quase pronto! )
  
