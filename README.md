@@ -5,7 +5,8 @@
  
 ###### ♥ Sobre ♥
 
-Jogo League of Legends a mais de três anos com e sem ferramentas, com o meu conhecimento incrívelmente vasto (sou muito inteligente e modesta... hahahaha) pretendo fazer de todos vocês verdadeiros campeões!
+Jogo League of Legends a mais de três anos com e sem ferramentas, com o meu conhecimento incrivelmente vasto (sou muito inteligente e modesta... hahahaha) pretendo fazer de todos vocês verdadeiros campeões!
+
  ♥ [Perfil](https://www.joduska.me/forum/user/1631-mamisharp/)
  
  
