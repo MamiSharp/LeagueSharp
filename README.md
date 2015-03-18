@@ -1,6 +1,6 @@
 ## ♥ MamiSharp ♥
 
- ♥ [MamiAkali](https://github.com/MamiSharp/LeagueSharp/MamiAkali/) - ( Quase pronto! )
+ ♥ [MamiAkali](https://github.com/MamiSharp/LeagueSharp/tree/master/MamiAkali) - ( Quase pronto! )
  
  
 ###### ♥ Sobre ♥
