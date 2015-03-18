@@ -1,5 +1,7 @@
 ## ♥ MamiSharp ♥
 
+![alt tag](http://images4.fanpop.com/image/photos/18300000/SCANDAL-Mami-Sasazaki-scandal-18395535-590-395.jpg)
+
  ♥ [MamiAkali](https://github.com/MamiSharp/LeagueSharp/tree/master/MamiAkali) - ( Quase pronto! )
  
  
