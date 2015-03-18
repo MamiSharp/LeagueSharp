@@ -5,7 +5,7 @@
  
 ###### ♥ Sobre ♥
 
-Jogo League of Legends a mais de três anos com e sem ferramentas. O meu foco aqui é criar assemblies inteligentes e discretas, de forma que ninguém nunca descubra a fonte do seu talento! ♪
+Jogo League of Legends a mais de quatro anos com e sem ferramentas. O meu foco aqui é criar assemblies inteligentes e discretas, de forma que ninguém nunca descubra a fonte do seu talento! ♪
 
  ♥ [Perfil](https://www.joduska.me/forum/user/1631-mamisharp/)
  
