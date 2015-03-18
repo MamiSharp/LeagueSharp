@@ -1,7 +1,3 @@
-# LeagueSharp
+# ♥ MamiSharp ♥
 
-♥ MamiAkali
-♥
-♥
-♥
-♥
+# ♥ MamiAkali
