@@ -1,4 +1,4 @@
-## ♥ MamiSharp ♥
+## Ƹ̴Ӂ̴Ʒ MamiSharp
 
 ![alt tag](http://i.imgur.com/Df9WzUt.jpg)
 
