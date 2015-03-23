@@ -14,7 +14,7 @@ namespace MamiAkali
     {
 
         static readonly Obj_AI_Hero player = ObjectManager.Player;
-        static readonly string localVersion = "1.0";
+        static readonly string localVersion = "1.1";
         static Menu menu = new Menu("MamiAkali", "Akali", true);
         static Orbwalking.Orbwalker orbwalker;
 
@@ -479,6 +479,7 @@ namespace MamiAkali
             drawings.AddItem(new MenuItem("Erange", "Alcance do E").SetValue(new Circle(false, Color.FromArgb(150, Color.DarkRed))));
             drawings.AddItem(new MenuItem("Rrange", "Alcance do R").SetValue(new Circle(false, Color.FromArgb(150, Color.DarkRed))));
             drawings.AddItem(new MenuItem("RAPE", "Mostrar Instakill").SetValue<bool>(true));
+            drawings.AddItem(new MenuItem("♥ MamiAkali ♥", "Doações: MamiSharp@asia.com"));
             drawings.AddItem(dmgAfterComboItem);
 
             menu.AddToMainMenu();
@@ -486,7 +487,6 @@ namespace MamiAkali
 
         static void UpdateChecks()
         {
-            Game.PrintChat("<font color='#ffb2b2'>♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥ ♥</font>");
             WebClient client = new WebClient();
             string version = client.DownloadString("https://github.com/MamiSharp/LeagueSharp/MamiAkali/version");
             if (version.Remove(4).Equals(localVersion))
