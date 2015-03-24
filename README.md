@@ -4,7 +4,7 @@
 
 ###### ♥ Assemblies ♥
 
- ♥ [MamiAkali](https://github.com/MamiSharp/LeagueSharp/tree/master/MamiAkali) - ( Funciona somente no Garena e não no 5.5! )
+ ♥ [MamiAkali](https://github.com/MamiSharp/LeagueSharp/tree/master/MamiAkali) - ( Em processo, pode não funcionar! )
  
  
 ###### ♥ Sobre ♥
